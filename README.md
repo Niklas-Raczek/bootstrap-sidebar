@@ -19,4 +19,5 @@ The Style-Tag at the top of the index.php file handles the colors etc. You can c
 
 
 Checkout my [YoutubeChannel](https://www.youtube.com/c/futuric)
+
 Checkout my [Website](https://futuric.io)
