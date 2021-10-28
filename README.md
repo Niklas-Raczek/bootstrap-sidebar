@@ -16,6 +16,7 @@ The Style-Tag at the top of the index.php file handles the colors etc. You can c
 - JavaScript
 - Bootstrap 5 library
 
-<a href="https://www.buymeacoffee.com/roniemartinez" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
 
-Checkout my [YoutubeChannel](https://breakdance.github.io/breakdance/)
+
+Checkout my [YoutubeChannel](https://www.youtube.com/c/futuric)
+Checkout my [Website](https://futuric.io)
