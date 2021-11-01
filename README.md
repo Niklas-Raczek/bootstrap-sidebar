@@ -21,3 +21,5 @@ ________________________________________________________________________________
 Checkout my [YoutubeChannel](https://www.youtube.com/c/futuric)
 
 Checkout my [Website](https://futuric.io)
+
+<a href="https://www.buymeacoffee.com/futuric" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
